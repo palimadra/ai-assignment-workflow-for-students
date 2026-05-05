@@ -1,108 +1,132 @@
-**STEP 1 PROMPT**
+# Assignment Workflow Prompts
 
-  I have an assignment on this topic: "Explain the impact of Artificial Intelligence on education."
+## Step 1: Understand the Assignment
 
-  Explain this topic to me in simple language. Also tell me what the teacher is likely expecting from this assignment.
+I have an assignment on this topic:
+"[Insert Topic]"
 
-**STEP 2 PROMPT**
+Explain this topic to me in simple language. Also tell me what the teacher is likely expecting from this assignment.
 
-  Break this assignment topic into 5 to 6 simple subtopics that I can use as sections in my answer.
+---
 
-  Topic: "Explain the impact of Artificial Intelligence on education."
+## Step 2: Break Topic into Subtopics
 
-  Keep the subtopics suitable for a college-level assignment.
+Break this assignment topic into 5 to 6 simple subtopics that I can use as sections in my answer.
 
-**STEP 3 PROMPT**
+Topic: "[Insert Topic]"
 
-  Create a detailed outline for an 800 to 1,000 word college assignment on this topic:
+Keep the subtopics suitable for a college-level assignment.
 
-  "Explain the impact of Artificial Intelligence on education."
+---
 
-  The outline should include:
-  - Introduction
-  - Main body sections
-  - Key points under each section
-  - Conclusion
+## Step 3: Create Assignment Outline
 
-**STEP 4 PROMPT**
+Create a detailed outline for an 800 to 1,000 word college assignment on this topic:
 
-  For each section of this outline, give me 4 to 5 key points that I can explain in my own words.
+"[Insert Topic]"
 
-  Make the points clear, simple, and suitable for a college student.
+The outline should include:
 
-**STEP 5 PROMPT
-**
-  Give me practical examples for each section of this assignment.
+* Introduction
+* Main body sections
+* Key points under each section
+* Conclusion
 
-  The examples should be easy to understand and related to students, teachers, classrooms, online learning, or exams.
+---
 
-**STEP 7 PROMPT**
+## Step 4: Generate Key Points
 
-  I have written this assignment draft myself.
+For each section of this outline, give me 4 to 5 key points that I can explain in my own words.
 
-  Please improve the clarity, grammar, structure, and flow without changing my main ideas.
+Make the points clear, simple, and suitable for a college student.
 
-  Keep the language simple and suitable for a college student.
+---
 
-  Here is my draft:
+## Step 5: Add Examples
 
-  [Paste your draft here]
+Give me practical examples for each section of this assignment.
 
-**STEP 8 PROMPT**
+The examples should be easy to understand and related to real student or classroom situations.
 
-  Review this assignment draft and tell me whether it properly answers the topic:
+---
 
-  "Explain the impact of Artificial Intelligence on education."
+## Step 6: Improve My Draft
 
-  Give feedback under these headings:
-  1. What is good
-  2. What is missing
-  3. What needs more explanation
-  4. What can be removed
-  5. How to improve the conclusion
+I have written this assignment draft myself.
 
-  Here is my draft:
+Please improve the clarity, grammar, structure, and flow without changing my main ideas.
 
-  [Paste your draft here]
+Keep the language simple and suitable for a college student.
 
-**STEP 9 PROMPT**
+Here is my draft:
 
-  Improve only the introduction of my assignment.
+[Paste your draft here]
 
-  Make it clear, simple, and suitable for a college-level answer.
+---
 
-  Do not make it sound too advanced or artificial.
+## Step 7: Review My Assignment
 
-  Here is my introduction:
+Review this assignment draft and tell me whether it properly answers the topic:
 
-  [Paste introduction here]
+"[Insert Topic]"
 
-**STEP 10 PROMPT**
+Give feedback under these headings:
 
-  Improve only the conclusion of my assignment.
+1. What is good
+2. What is missing
+3. What needs more explanation
+4. What can be removed
+5. How to improve the conclusion
 
-  The conclusion should summarize the main points and end with a balanced view.
+Here is my draft:
 
-  Keep it simple and natural.
+[Paste your draft here]
 
-  Here is my conclusion:
+---
 
-  [Paste conclusion here]
+## Step 8: Improve Introduction
 
-**STEP 11 PROMPT**
+Improve only the introduction of my assignment.
 
-  Review my final assignment before submission.
+Make it clear, simple, and suitable for a college-level answer.
 
-  Check for:
-  - Clear structure
-  - Repetition
-  - Weak arguments
-  - Grammar mistakes
-  - Overly artificial AI-style language
-  - Whether it sounds like a student wrote it
+Do not make it sound too advanced or artificial.
 
-  Suggest improvements, but do not rewrite the full assignment unless needed.
+Here is my introduction:
 
-  Here is my assignment:
+[Paste introduction here]
 
-  [Paste full assignment here]
+---
+
+## Step 9: Improve Conclusion
+
+Improve only the conclusion of my assignment.
+
+The conclusion should summarize the main points and end with a balanced view.
+
+Keep it simple and natural.
+
+Here is my conclusion:
+
+[Paste conclusion here]
+
+---
+
+## Final Check Before Submission
+
+Review my final assignment before submission.
+
+Check for:
+
+* Clear structure
+* Repetition
+* Weak arguments
+* Grammar mistakes
+* Overly artificial AI-style language
+* Whether it sounds like a student wrote it
+
+Suggest improvements, but do not rewrite the full assignment unless needed.
+
+Here is my assignment:
+
+[Paste full assignment here]
